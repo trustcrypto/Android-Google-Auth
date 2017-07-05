@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OKTimeSet</string>
+    <string name="launch_err">"App launches when OnlyKey is inserted."</string>
+    <string name="msg_attach_onlykey">Attach OnlyKey.</string>
+    <string name="msg_perm_denied">Permission denied.</string>
+    <string name="msg_ok_attached">OnlyKey attached.</string>
+    <string name="msg_ok_detached">OnlyKey detached.</string>
+    <string name="msg_waiting_for_unlock">Waiting for unlock...</string>
+    <string name="msg_setup_required">Device setup required!</string>
+    <string name="msg_dev_locked">Device is locked.</string>
+    <string name="msg_dev_unlocked">Device is unlocked.</string>
+    <string name="msg_set_time">OnlyKey time set!</string>
+</resources>
